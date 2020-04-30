@@ -50,6 +50,9 @@ body {
   height: 100%;
   background: rgba(0, 0, 0, 0.7);
 }
+#btnlink {
+  margin-right: 10px;
+}
 
 #video-play {
   position: relative;
@@ -98,4 +101,5 @@ body {
   background: #000;
   color: #fff;
 }
+
 
